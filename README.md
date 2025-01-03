@@ -1,4 +1,4 @@
-# Porsche 911 GT3 Payments Calculator
+# Car Loan Payments Calculator
 
 This is an interactive loan calculator implemented in a Jupyter Notebook. The calculator allows you to adjust the car price, sales tax rate, down payment, annual interest rate, and loan term using sliders, and displays the monthly payments, total payments, and total interest paid over time.
 
